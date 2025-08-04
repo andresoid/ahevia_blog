@@ -1,0 +1,59 @@
+# Configuración del sitio
+title: "Blog de Andrés Hevia"
+description: "Mi blog personal donde escribo sobre TI: programación, tecnología, arquitectura, clouds e inteligencia artificial"
+author: "Andrés Hevia"
+url: "https://andresoid.github.io"
+baseurl: "/ahevia_blog"
+
+# Configuración de Jekyll
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configuración de permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Configuración de paginación
+paginate: 5
+paginate_path: "/page:num/"
+
+# Configuración de excerpts
+excerpt_separator: <!--more-->
+
+# Configuración para GitHub Pages
+github_username: andresoid
+timezone: America/Santiago
+
+# Configuración de colecciones
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+# Configuración de defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Andrés Hevia"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Archivos y directorios a excluir
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
