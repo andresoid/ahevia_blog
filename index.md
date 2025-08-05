@@ -21,11 +21,10 @@ Bienvenido a mi blog personal donde escribo sobre cosas que me interesan de TI: 
       </time>
       {% if post.author %} • {{ post.author }}{% endif %}
     </p>
-    {% if post.excerpt %}
-      <div class="post-list-excerpt">
-        {{ post.excerpt }}
-      </div>
-    {% endif %}
+    <div class="post-list-excerpt">
+      {{ post.excerpt }}
+      <a href="{{ post.url | relative_url }}">[seguir leyendo]</a>
+    </div>
   </div>
 {% endfor %}
 </div>
