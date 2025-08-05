@@ -3,7 +3,7 @@ title: "Blog de Andrés Hevia"
 description: "Mi blog personal donde escribo sobre TI: programación, tecnología, arquitectura, clouds e inteligencia artificial"
 author: "Andrés Hevia"
 url: "https://andresoid.github.io"
-baseurl: "/ahevia_blog"
+baseurl: ""
 
 # Configuración de Jekyll
 markdown: kramdown
