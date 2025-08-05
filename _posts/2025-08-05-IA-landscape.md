@@ -4,7 +4,7 @@ En esta entrada te presento una visión estructurada y progresiva de los compone
 <!--more-->
 ### El camino de menor a mayor complejidad
 La siguiente representación visual resume muy bien las capas necesarias para construir sistemas de agentes sofisticados:
-![IA Landscape](/assets/img/landscape.jpeg)
+![IA Landscape](/assets/img/landscape.jpeg){: .img-center }
 
 #### 1. LLMs: El Núcleo del Sistema
 Los Modelos de Grandes Morelos de Lenguaje como GPT, Claude o Mistral son la base. En esta capa encontramos:
