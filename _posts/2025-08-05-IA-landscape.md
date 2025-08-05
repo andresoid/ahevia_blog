@@ -1,3 +1,12 @@
+---
+layout: post
+title: "IA Landscape: De LLMs a Sistemas Multiagente"
+date: 2024-06-10 00:00:00 -0300
+categories: [IA]
+author: Andrés Hevia
+excerpt: "Explora la evolución desde los LLMs hasta sistemas multiagente, detallando las capas necesarias para construir IA agentica real: desde el razonamiento y la memoria de los agentes, hasta la colaboración y la infraestructura que permite operar sistemas complejos y escalables."
+---
+
 ## De LLMs a Sistemas Multiagente: La Ruta Real hacia la IA Agentica
 La inteligencia artificial agentica representa un cambio de paradigma: ya no se trata solo de generar respuestas con un modelo de lenguaje, sino de construir agentes autónomos, con razonamiento, memoria, planificación y capacidad de coordinación. Y si además hablamos de sistemas multiagente, la complejidad se multiplica… y también su potencia.
 En esta entrada te presento una visión estructurada y progresiva de los componentes que hacen posible construir IA agentica real, no solo prototipos o juguetes de laboratorio.
