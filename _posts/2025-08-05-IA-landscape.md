@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA Landscape: De LLMs a Sistemas Multiagente"
-date: 2024-06-10 00:00:00 -0300
+date: 2025-08-04 00:00:00 -0300
 categories: [IA]
 author: Andrés Hevia
 excerpt: "Explora la evolución desde los LLMs hasta sistemas multiagente, detallando las capas necesarias para construir IA agentica real: desde el razonamiento y la memoria de los agentes, hasta la colaboración y la infraestructura que permite operar sistemas complejos y escalables."
@@ -21,6 +21,7 @@ Los Modelos de Grandes Morelos de Lenguaje como GPT, Claude o Mistral son la bas
 - Tokenización y parámetros de inferencia: controlan cómo se procesa el texto.
 - Prompt Engineering: el arte de diseñar instrucciones precisas.
 Aunque esta capa permite tareas impresionantes, no basta para construir agentes. Aquí se habla, pero no se piensa ni se decide.
+
 #### 2. Agentes de IA: Pensar y Actuar
 Un agente de IA va más allá de un modelo pasivo. Tiene:
 - Razonamiento estructurado: con técnicas como ReAct (Reason + Act) o Chain-of-Thought.
@@ -28,6 +29,7 @@ Un agente de IA va más allá de un modelo pasivo. Tiene:
 - Memoria y estado: capacidad para recordar y actuar en función de contextos anteriores.
 - Planificación de tareas: descomposición de objetivos complejos en subtareas manejables.
 Este es el nivel donde un modelo comienza a comportarse como un agente inteligente.
+
 #### 3. Sistemas Agenticos: Colaboración entre Agentes
 Cuando varios agentes interactúan y cooperan, aparecen nuevos desafíos:
 - Roles y especialización: cada agente cumple una función concreta.
@@ -36,6 +38,7 @@ Cuando varios agentes interactúan y cooperan, aparecen nuevos desafíos:
 - Multi-Agent RAG: combinación de múltiples agentes en procesos de recuperación aumentada.
 - Coordinación de estado: mantener la coherencia entre múltiples agentes activos.
 Este nivel es esencial para resolver tareas distribuidas, complejas o que requieren diversas habilidades.
+
 #### 4. Infraestructura Agentica: Escalabilidad y Robustez
 Ningún sistema de agentes sobrevive sin una infraestructura adecuada. Aquí hablamos de:
 - Orquestación: coordinar flujos de trabajo entre agentes.
@@ -46,7 +49,8 @@ Ningún sistema de agentes sobrevive sin una infraestructura adecuada. Aquí hab
 - Gestión de costes y rate limiting: evitar abusos y optimizar el uso de recursos.
 - Manejo de errores y reintentos: garantizar resiliencia y tolerancia a fallos.
 Esta capa convierte a un conjunto de agentes en un sistema confiable, seguro y operable a escala.
-### ✍️ Conclusión
+
+### Conclusión
 Construir sistemas agenticos no es solo cuestión de usar la herramienta de moda. Requiere entender:
 - Cómo razonan y actúan los agentes
 - Cómo se comunican y coordinan en sistemas multiagente
