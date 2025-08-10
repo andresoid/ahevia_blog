@@ -26,6 +26,4 @@ Mi objetivo es compartir conocimiento, documentar mi aprendizaje y contribuir a 
 
 Puedes encontrarme en GitHub como [@andresoid](https://github.com/andresoid).
 
----
 
-*Este blog está construido con Jekyll y hospedado en GitHub Pages.*

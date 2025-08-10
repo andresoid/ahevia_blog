@@ -31,7 +31,7 @@ En este blog escribiré sobre varios temas que me apasionan:
 - Decisiones arquitectónicas
 
 ### ☁️ Cloud Computing
-- Servicios en la nube (AWS, Azure, GCP)
+- Servicios en la nube 
 - DevOps y CI/CD
 - Infraestructura como código
 - Contenedores y orquestación
@@ -42,30 +42,12 @@ En este blog escribiré sobre varios temas que me apasionan:
 - Casos de uso reales
 - Impacto de la IA en el desarrollo
 
-## Acerca de este sitio
-
-Este blog está construido con [Jekyll](https://jekyllrb.com/) y hospedado en [GitHub Pages](https://pages.github.com/). Es una solución simple, rápida y gratuita para compartir contenido técnico.
-
-### Características técnicas:
-- **Generador**: Jekyll 4.3
-- **Tema**: Personalizado basado en Minima
-- **Hosting**: GitHub Pages
-- **Sintaxis**: Markdown con highlight de código
-- **SEO**: Optimizado para motores de búsqueda
-
-## ¿Qué viene después?
-
-Tengo planeado escribir sobre varios temas en las próximas semanas:
-
-1. Configuración de un entorno de desarrollo moderno
-2. Introducción a la arquitectura hexagonal
-3. Automatización con GitHub Actions
-4. Primeros pasos con Large Language Models
 
 ## Mantente conectado
 
 Si te interesa el contenido que comparto, puedes:
 - Seguir el repositorio en [GitHub](https://github.com/andresoid/ahevia_blog)
+- Seguirme en twitter @a_hevia
 - Volver regularmente para ver nuevo contenido
 - Contribuir con sugerencias o correcciones
 
