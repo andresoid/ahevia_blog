@@ -5,6 +5,8 @@ layout: default
 
 # 👋 ¡Hola!
 
+![Imagen de bienvenida](./assets/img/home_blog.png)
+
 Bienvenido a mi blog personal donde escribo sobre cosas que me interesan de TI: programación, tecnología, arquitectura, clouds, y por supuesto inteligencia artificial.
 
 ## Posts Recientes
